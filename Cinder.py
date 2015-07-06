@@ -11,6 +11,8 @@ myVar = returnsHi()
 print(returnsHi())
 print("Hi")
 
+print("This is a change made by CryHavok to test git")
+
 
 While(True): 
 # While statements repeat all the commands within the while block until <condition> is false
