@@ -11,7 +11,7 @@ myVar = returnsHi()
 print(returnsHi())
 print("Hi")
 
-print("This is a change made by CryHavok to test git")
+print("Not what I meant to say...")
 
 
 While(True): 
