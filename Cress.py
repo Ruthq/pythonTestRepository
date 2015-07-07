@@ -19,5 +19,3 @@ while (L != "Yes"):
 	else:
 		print (int(Y) * int(Z))
 		L  = input("Would you like to end the program? ")
-		
-print ("Hello World")
